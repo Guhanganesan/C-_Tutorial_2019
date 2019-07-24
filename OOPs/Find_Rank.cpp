@@ -61,7 +61,7 @@ int main()
    
     for(int j=0; j<objCount; j++)
     {
-        cout<<"Student"<<(j+1)<<" Information is:"<<endl;
+        cout<<"Student Rank "<<(j+1)<<" Information is:"<<endl;
         obj[j].display();
     }
    
@@ -83,9 +83,9 @@ Enter Student2 Details:
 Enter Name
 Anbu
 Enter Id
-A001
+A002
 Enter Marks
-45
+64
 Do you want to continue
 y
 Enter Student3 Details:
@@ -94,7 +94,7 @@ Sowmya
 Enter Id
 A003
 Enter Marks
-85
+75
 Do you want to continue
 y
 Enter Student4 Details:
@@ -103,23 +103,23 @@ Raja
 Enter Id
 A004
 Enter Marks
-66
+85
 Do you want to continue
 n
-Student1 Information is:
-Student Name: Sowmya
-Student Id: A003
-Student Marks 85
-Student2 Information is:
+Student Rank 1 Information is:
 Student Name: Raja
 Student Id: A004
-Student Marks 66
-Student3 Information is:
+Student Marks 85
+Student Rank 2 Information is:
+Student Name: Sowmya
+Student Id: A003
+Student Marks 75
+Student Rank 3 Information is:
+Student Name: Anbu
+Student Id: A002
+Student Marks 64
+Student Rank 4 Information is:
 Student Name: Guhan
 Student Id: A001
 Student Marks 55
-Student4 Information is:
-Student Name: Anbu
-Student Id: A001
-Student Marks 45
 */
