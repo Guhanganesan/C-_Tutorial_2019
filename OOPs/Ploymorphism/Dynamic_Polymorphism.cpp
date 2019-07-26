@@ -42,4 +42,6 @@ int main()
 display() method in base class
 display() method in child class
 method show() in base class
+
+Thanks to: http://www.tutorialdost.com/Cpp-Programming-Tutorial/01-Cpp-Programming-Tutorial-Introduction.aspx
 */
