@@ -1,7 +1,6 @@
 #include <fstream>
 #include <iostream>
 using namespace std;
- 
 int main () 
 {
    //Create a file
@@ -10,3 +9,4 @@ int main ()
 
    return 0;
 }
+
