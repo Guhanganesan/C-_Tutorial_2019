@@ -12,9 +12,9 @@ class A
     public:
     void getData()
     {
-        cout<<name;
-        cout<<pin;
-        cout<<mob;
+        cout<<name; //can get
+        cout<<pin; //can get
+        cout<<mob; //can get
     }
 };
 
